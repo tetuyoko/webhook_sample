@@ -1,0 +1,9 @@
+/Users/tetuyoko/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20150930-32291-jqqa7m.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
